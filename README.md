@@ -3,7 +3,7 @@
 
 ###Clase 1
 
-Lectura 1:  [Mastering Bitcoin Chapter 2: How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02_overview.adoc])
+Lectura 1:  [Mastering Bitcoin Chapter 2: How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02_overview.adoc)
 
 Lectura 2:  [Mastering Bitcoin Chapter 3: Bitcoin Core, the reference implementation](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03_bitcoin-core.adoc)
 
