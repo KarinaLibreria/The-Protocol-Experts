@@ -1,7 +1,7 @@
 # The-Protocol-Experts
-##Material
+## Material
 
-###Clase 1
+### Clase 1
 
 Lectura 1:  [Mastering Bitcoin Chapter 2: How Bitcoin Works](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02_overview.adoc)
 
@@ -15,7 +15,7 @@ Video:  [Bitcoin Q&A: Unspent Transaction Output (UTXO)](https://www.youtube.com
 
 
 
-###Clase 2:
+### Clase 2:
 
 Lectura 1: [Mastering Bitcoin Chapter 6: Transaction](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch06_transactions.adoc)
 
